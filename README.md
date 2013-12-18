@@ -1,4 +1,6 @@
 imeinv
 ======
 
-爱美女API
+爱美女
+
+wiki about API 
